@@ -7,6 +7,10 @@ Sobre mim
 💻 Focused on Full Stack Web Development
 🚀 Seeking an opportunity as an Intern or Junior Developer
 
+## 🚀 Objective
+
+I am seeking an opportunity as a Junior Developer or Intern to apply my knowledge, grow technically, and contribute with well-structured solutions.
+
 🚀 Technologies
 
 HTML
